@@ -6,7 +6,6 @@ The program below is supposed to ask the user to enter an integer input, and pri
 
 The program doesn't work quite right yet, though. Fix the program so that it runs the way it should (there should be at 3 things you need to change.)
 """
-
 number = int(input("What factorial are you looking for? "))
 
 product = 1
