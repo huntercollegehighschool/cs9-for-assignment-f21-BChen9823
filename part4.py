@@ -38,7 +38,6 @@ buzz
 fizz
 
 """
-
 # write your code here 
 
 number = int(input("Enter a number: "))
