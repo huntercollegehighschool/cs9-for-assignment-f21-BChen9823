@@ -17,7 +17,6 @@ Enter the height: 3
 *******
 
 """
-
 #write your code here 
 
 base = int(input("Enter the base: "))
